@@ -1,4 +1,6 @@
 Multi-Model Big Data Analytics for E-Commerce
+
+
 This project implements a multi-model big data analytics system for an e-commerce platform using MongoDB, Apache HBase, and Apache Spark.
 •	MongoDB is used for storing business data such as users, products, and transactions
 •	HBase is used for storing large-scale browsing session logs
